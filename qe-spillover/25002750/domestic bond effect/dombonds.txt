@@ -1,0 +1,12 @@
+	(1)	(2)	(3)
+VARIABLES	value	value	value
+			
+qe	-0.00527***	-0.0101***	-0.00574***
+	(0.000197)	(0.000139)	(0.000370)
+Constant	-1.728***	0.119	-4.646***
+	(0.284)	(0.204)	(0.533)
+			
+Observations	321	322	322
+R-squared	0.690	0.946	0.428
+Robust standard errors in parentheses			
+*** p<0.01, ** p<0.05, * p<0.1			
